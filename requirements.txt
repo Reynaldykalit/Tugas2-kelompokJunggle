@@ -1,0 +1,11 @@
+tensorflow
+tensorflow-model-optimization
+keras
+numpy
+matplotlib
+pandas
+scikit-learn
+Pillow
+split-folders
+kaggle
+kagglehub
